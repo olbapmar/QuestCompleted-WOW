@@ -1,0 +1,6 @@
+## Interface: 70300
+## Version: 1.0.0
+## Title: QuestCompleted
+## Notes: Simple addon that allows you to easily check if you have completed a certain quest
+
+questcompleted.lua
